@@ -1,10 +1,12 @@
 ## thecybermind
 
-Hello, I am Kevin Masterson.
+Hello, I am Kevin Masterson. At various points in my career, I have worn the hats of software developer, network engineer, and system administrator.
+
+I am originally from the United States, but I am currently in Bulgaria with my wife and our dog.
 
 My longtime project has been QMM. It is a dynamic plugin manager for games based on the Quake 3 (and Quake 2!) engine. It functions similar to [Metamod](http://metamod.org/) for Half-Life and [Metamod:Source](https://www.sourcemm.net/) for the Source engine (Half-Life 2).
 
-I began writing it while at University of Maryland in 2004, and it was originally hosted on SourceForge, then also on PlanetQuake.
+I began writing it while at University of Maryland in 2004, and it was originally hosted on SourceForge, and for a short time also on PlanetQuake.
 
 Eventually, I stopped working on it, and then after SourceForge went downhill, I made repos here on GitHub, but otherwise left them untouched. I have since (Mar 2025) begun working on QMM (and various plugins) again.
 
