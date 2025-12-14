@@ -12,9 +12,9 @@ Eventually, I stopped working on it, and then after SourceForge went downhill, I
 
 Take a look at some of the QMM repos:
 * [QMM2](https://github.com/thecybermind/qmm2/) - The main plugin manager
-* [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample plugin
 * [RocketMod_QMM](https://github.com/thecybermind/rocketmod_qmm/) - A simple "Rocket Launcher-only" game mode plugin for Quake 3 Arena
 * [Stripper_QMM](https://github.com/thecybermind/stripper_qmm/) - A plugin that dynamically modifies map entities during loading. Similar to [Stripper2](http://hpb-bot.bots-united.com/stripper2.html) for Half-Life and [Stripper:Source](https://www.bailopan.net/stripper/) for Source engine games
+* [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample plugin
 * [qvmops](https://github.com/thecybermind/qvmops/) - A simple CLI [QVM](https://github.com/thecybermind/qmm2/wiki/QVM) disassembler
 
 Take a look at some of my other projects:
