@@ -2,16 +2,16 @@
 
 Hello, I am Kevin Masterson. At various points in my career, I have worn the hats of software developer, network engineer, and system administrator.
 
-I am originally from the United States, but I am currently in Bulgaria with my wife and our dog.
+I am originally from the United States, but I currently live in Bulgaria with my wife and our dog.
 
-My longtime project has been QMM (Quake3 MultiMod). It is a dynamic plugin manager for games based on the Quake 3 engine (and now also the Quake 2 engine!). It functions similar to [Metamod](http://metamod.org/) for Half-Life and [Metamod:Source](https://www.sourcemm.net/) for the Source engine (Half-Life 2).
+My long-time personal project has been QMM (Quake3 MultiMod). It is a dynamic plugin manager for games based on the Quake 3 engine (and now also the Quake 2 engine!). It functions similar to [Metamod](http://metamod.org/) for Half-Life and [Metamod:Source](https://www.sourcemm.net/) for the Source engine (Half-Life 2).
 
 I began writing it while at University of Maryland in 2004, and it was originally hosted on SourceForge, and for a short time also on PlanetQuake.
 
 Eventually, I stopped working on it, and then after SourceForge went downhill, I made repos here on GitHub, but otherwise left them untouched. I have since (Mar 2025) begun working on QMM (and various plugins) again.
 
 Take a look at some of the QMM repos:
-* [QMM2](https://github.com/thecybermind/qmm2/) - The main plugin manager
+* [QMM2](https://github.com/thecybermind/qmm2/) - The main plugin manager ([how it works](https://github.com/thecybermind/qmm2/wiki/How-QMM-works))
 * [RocketMod_QMM](https://github.com/thecybermind/rocketmod_qmm/) - A simple "Rocket Launcher-only" game mode plugin for Quake 3 Arena
 * [Stripper_QMM](https://github.com/thecybermind/stripper_qmm/) - A plugin that dynamically modifies map entities during loading. Similar to Half-Life's [Stripper2](http://hpb-bot.bots-united.com/stripper2.html) and [Stripper:Source](https://www.bailopan.net/stripper/) for Source engine games
 * [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample plugin
