@@ -6,9 +6,9 @@ I am originally from the United States, but I currently live in Bulgaria with my
 
 My long-time personal project has been QMM (Quake3 MultiMod). It is a dynamic plugin manager for games based on the Quake 3 engine (and now also the Quake 2 engine!). It functions similar to [Metamod](http://metamod.org/) for Half-Life and [Metamod:Source](https://www.sourcemm.net/) for the Source engine (Half-Life 2).
 
-I began writing it while at University of Maryland in 2004, and it was originally hosted on SourceForge, and for a short time also on PlanetQuake.
+I began writing it while at University of Maryland in 2004, and the code was originally hosted on SourceForge while the main site was hosted on PlanetQuake.
 
-Eventually, I stopped working on it, and then after SourceForge went downhill, I made repos here on GitHub, but otherwise left them untouched. I have since (Mar 2025) begun working on QMM (and various plugins) again.
+Eventually, I stopped working on it, and only did anything related to it when a few people emailed me. After PlanetQuake disappeared and SourceForge went downhill, I made repos here on GitHub, but otherwise left them untouched. I have since (Mar 2025) begun working on QMM (and various plugins) again.
 
 Take a look at some of the QMM repos:
 * [QMM2](https://github.com/thecybermind/qmm2/) - The main plugin manager ([how it works](https://github.com/thecybermind/qmm2/wiki/How-QMM-works))
