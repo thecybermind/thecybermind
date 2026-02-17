@@ -10,14 +10,14 @@ I began writing it while at University of Maryland in 2004, and the code was ori
 
 Eventually, I stopped working on it, and only did anything related to it when a few people emailed me. After PlanetQuake disappeared and SourceForge went downhill, I made repos here on GitHub, but otherwise left them untouched. I have since (Mar 2025) begun working on QMM (and various plugins) again.
 
-Take a look at some of the QMM repos:
+Take a look at some of the QMM-related repos:
 * [QMM2](https://github.com/thecybermind/qmm2/) - The main plugin manager ([how it works](https://github.com/thecybermind/qmm2/wiki/How-QMM-works))
+* [qvmops](https://github.com/thecybermind/qvmops/) - A simple CLI [QVM](https://github.com/thecybermind/qmm2/wiki/QVM) disassembler with code and data segments and support for reading symbol information from .map files
 * [RocketMod_QMM](https://github.com/thecybermind/rocketmod_qmm/) - A simple "Rocket Launcher-only" game mode plugin for Quake 2 and Quake 3 Arena
 * [Stripper_QMM](https://github.com/thecybermind/stripper_qmm/) - Plugin that dynamically modifies map entities during loading -- similar to Half-Life's [Stripper2](http://hpb-bot.bots-united.com/stripper2.html) and [Stripper:Source](https://www.bailopan.net/stripper/) for Source engine games
 * [QAdmin_QMM](https://github.com/thecybermind/qadmin_qmm/) - Plugin to administer servers with in-game commands and access levels
 * [AdvChat_QMM](https://github.com/thecybermind/advchat_qmm/) - A plugin that allows for predefined variable replacement in chat, like $h for health or $a for armor
-* [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample plugin that outputs every message and some commonly-used arguments
-* [qvmops](https://github.com/thecybermind/qvmops/) - A simple CLI [QVM](https://github.com/thecybermind/qmm2/wiki/QVM) disassembler with code and data segments
+* [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample trace plugin that outputs every message and some commonly-used arguments
 
 Take a look at some of my other projects:
 
