@@ -18,6 +18,7 @@ Take a look at some of the QMM-related repos:
 * [QAdmin_QMM](https://github.com/thecybermind/qadmin_qmm/) - Plugin to administer servers with in-game commands and access levels.
 * [AdvChat_QMM](https://github.com/thecybermind/advchat_qmm/) - A plugin that allows for predefined variable replacement in chat, like $h for health or $a for armor.
 * [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample trace plugin that outputs every message and some commonly-used arguments.
+* [Sof2GT_QMM](https://github.com/thecybermind/sof2gt_qmm/) - A plugin which hooks the "gametype" module interface for Soldier of Fortune II. This utilizes IAT patching in Windows and PLT relocation patching in Linux.
 
 Take a look at some of my other projects:
 
@@ -31,5 +32,5 @@ Take a look at some of my other projects:
 * [WeapTFC](https://github.com/thecybermind/weaptfc_mm/) - Plugin for Half-Life Metamod to provide AdminMod scripts with callbacks for certain events. Also includes an AdminMod script to utilize these functions.
 * [w48crash](https://github.com/thecybermind/w48crash/) - Original PoC for CVE-2007-1260, discovered by me.
 * [WriteELF](https://github.com/thecybermind/writeelf/) - Tool to place a Wii homebrew ELF file onto an SD card at a certain sector. Used in conjunction with the original "Team Twiizers" savegame hack for The Legend of Zelda: Twilight Princess.
-* [VoxelMapRedir](https://github.com/thecybermind/VoxelMapRedir) - Hook DLL and DLL injector for an old version of Minecraft's VoxelMap plugin. It hooked Windows kernel32.dll function calls to fix path lookups when playing on a Minecraft Realm.
+* [VoxelMapRedir](https://github.com/thecybermind/VoxelMapRedir) - Hook DLL (using MinHook library) and DLL injector for an old version of Minecraft's VoxelMap plugin. It hooked Windows kernel32.dll function calls to fix path lookups when playing on a Minecraft Realm.
 * [aimpatch](https://github.com/thecybermind/aimpatch) - Proxy DLL for the old AIM 7.5 client to remove a giant ad at the bottom of the window.
