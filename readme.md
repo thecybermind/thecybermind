@@ -18,7 +18,7 @@ Take a look at some of the QMM-related repos:
 * [QAdmin_QMM](https://github.com/thecybermind/qadmin_qmm/) - Plugin to administer servers with in-game commands and access levels.
 * [AdvChat_QMM](https://github.com/thecybermind/advchat_qmm/) - A plugin that allows for predefined variable replacement in chat, like $h for health or $a for armor.
 * [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample trace plugin that outputs every message and some commonly-used arguments.
-* [Sof2GT_QMM](https://github.com/thecybermind/sof2gt_qmm/) - A plugin which hooks the "gametype" module interface for Soldier of Fortune II. This utilizes IAT patching in Windows and PLT relocation patching in Linux.
+* [Sof2GT_QMM](https://github.com/thecybermind/sof2gt_qmm/) - A plugin which hooks the "gametype" module interface for Soldier of Fortune II. This utilizes IAT patching in Windows and PLT relocation patching in Linux to retarget the gametype DLL load to itself.
 
 Take a look at some of my other projects:
 
