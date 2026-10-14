@@ -27,9 +27,9 @@ Take a look at some of my other projects:
 * ![Latest release](https://img.shields.io/github/v/release/thecybermind/ipredir) [ipredir](https://github.com/thecybermind/ipredir/) - outgoing IP redirection+NAT for Windows.
 * [FRSScan](https://github.com/thecybermind/frsscan/) - Flipper Zero app to scan FRS channels for activity.
 * [SteelSeriesGG Helper](https://github.com/thecybermind/steelseriesgg_helper) - Simple script to reset settings in the Sonar section of the SteelSeries GG app.
-* [QuestNoise](https://github.com/thecybermind/questnoise/) - World of Warcraft addon that plays a sound when you have made objective progress, completed an objective, or completed a quest.
-* [HideHotKeys](https://github.com/thecybermind/hidehotkeys/) - World of Warcraft addon that allows you to hide button text showing the keybind and/or macro name.
-* [FlightWarn](https://github.com/thecybermind/flightwarn/) - World of Warcraft addon that plays a warning sound when you have flown in a straight line for too long, or if you have flown into fatigue. Useful for alt-tab flying prior to Dragonflight.
+* ![Latest release](https://img.shields.io/github/v/tag/thecybermind/questnoise) [QuestNoise](https://github.com/thecybermind/questnoise/) - World of Warcraft addon that plays a sound when you have made objective progress, completed an objective, or completed a quest.
+* ![Latest release](https://img.shields.io/github/v/tag/thecybermind/hidehotkeys) [HideHotKeys](https://github.com/thecybermind/hidehotkeys/) - World of Warcraft addon that allows you to hide button text showing the keybind and/or macro name.
+* ![Latest release](https://img.shields.io/github/v/tag/thecybermind/flightwarn) [FlightWarn](https://github.com/thecybermind/flightwarn/) - World of Warcraft addon that plays a warning sound when you have flown in a straight line for too long, or if you have flown into fatigue. Useful for alt-tab flying prior to Dragonflight.
 * [wowaddons](https://github.com/thecybermind/wowaddons/) - Other World of Warcraft addons that are older and not as popular to maintain anymore.
 * [WeapTFC](https://github.com/thecybermind/weaptfc_mm/) - Plugin for Half-Life Metamod to provide AdminMod scripts with callbacks for certain events. Also includes an AdminMod script to utilize these functions.
 * [w48crash](https://github.com/thecybermind/w48crash/) - Original PoC for CVE-2007-1260, discovered by me.
