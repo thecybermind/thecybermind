@@ -13,15 +13,24 @@ Eventually, I stopped working on it, and only did anything related to it when a 
 Take a look at some of the QMM-related repos:
 * [QMM2](https://github.com/thecybermind/qmm2/) - The main plugin manager ([how it works](https://github.com/thecybermind/qmm2/wiki/How-QMM-works)).  
     ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/qmm2)
-* [qvmops](https://github.com/thecybermind/qvmops/) - A simple CLI [QVM](https://github.com/thecybermind/qmm2/wiki/QVM) disassembler with code and data segments and support for reading symbol information from .map files.
-* [RocketMod_QMM](https://github.com/thecybermind/rocketmod_qmm/) - A simple "Rocket Launcher-only" game mode plugin for Quake 2, Quake 3 Arena, and Soldier of Fortune.
-* [NoCrash_QMM](https://github.com/thecybermind/nocrash_qmm/) - A simple plugin to fix the old q3msgboom bug.
-* [Stripper_QMM](https://github.com/thecybermind/stripper_qmm/) - Plugin that dynamically modifies map entities during loading -- similar to Half-Life's [Stripper2](http://hpb-bot.bots-united.com/stripper2.html) and [Stripper:Source](https://www.bailopan.net/stripper/) for Source engine games.
-* [QAdmin_QMM](https://github.com/thecybermind/qadmin_qmm/) - Plugin to administer servers with in-game commands and access levels.
-* [AdvChat_QMM](https://github.com/thecybermind/advchat_qmm/) - A plugin that allows for predefined variable replacement in chat, like $h for health or $a for armor.
-* [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample trace plugin that outputs every message and some commonly-used arguments.
-* [Sof2GT_QMM](https://github.com/thecybermind/sof2gt_qmm/) - A plugin which hooks the "gametype" module interface for Soldier of Fortune II. This utilizes IAT patching in Windows and PLT relocation patching in Linux to intercept the attempted load of the gametype DLL.
-* [Stub_Sof2GT](https://github.com/thecybermind/stub_sof2gt/) - A basic sample trace plugin of the "gametype" interface for Sof2GT_QMM.
+* [qvmops](https://github.com/thecybermind/qvmops/) - A simple CLI [QVM](https://github.com/thecybermind/qmm2/wiki/QVM) disassembler with code and data segments and support for reading symbol information from .map files.  
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/qvmops)
+* [RocketMod_QMM](https://github.com/thecybermind/rocketmod_qmm/) - A simple "Rocket Launcher-only" game mode plugin for Quake 2, Quake 3 Arena, and Soldier of Fortune.  
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/rocketmod_qmm)
+* [NoCrash_QMM](https://github.com/thecybermind/nocrash_qmm/) - A simple plugin to fix the old q3msgboom bug.  
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/nocrash_qmm)
+* [Stripper_QMM](https://github.com/thecybermind/stripper_qmm/) - Plugin that dynamically modifies map entities during loading -- similar to Half-Life's [Stripper2](http://hpb-bot.bots-united.com/stripper2.html) and [Stripper:Source](https://www.bailopan.net/stripper/) for Source engine games.  
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/stripper_qmm)
+* [QAdmin_QMM](https://github.com/thecybermind/qadmin_qmm/) - Plugin to administer servers with in-game commands and access levels.  
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/qadmin_qmm)
+* [AdvChat_QMM](https://github.com/thecybermind/advchat_qmm/) - A plugin that allows for predefined variable replacement in chat, like $h for health or $a for armor.  
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/advchat_qmm)
+* [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample trace plugin that outputs every message and some commonly-used arguments.  
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/stub_qmm)
+* [Sof2GT_QMM](https://github.com/thecybermind/sof2gt_qmm/) - A plugin which hooks the "gametype" module interface for Soldier of Fortune II. This utilizes IAT patching in Windows and PLT relocation patching in Linux to intercept the attempted load of the gametype DLL.  
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/sof2gt_qmm)
+* [Stub_Sof2GT](https://github.com/thecybermind/stub_sof2gt/) - A basic sample trace plugin of the "gametype" interface for Sof2GT_QMM.  
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/stub_sof2gt)
 
 Take a look at some of my other projects:
 
