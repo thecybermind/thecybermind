@@ -24,7 +24,7 @@ Take a look at some of the QMM-related repos:
 
 Take a look at some of my other projects:
 
-* [ipredir](https://github.com/thecybermind/ipredir/) - outgoing IP redirection+NAT for Windows.
+* [ipredir](https://github.com/thecybermind/ipredir/) - outgoing IP redirection+NAT for Windows. ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/ipredir)
 * [FRSScan](https://github.com/thecybermind/frsscan/) - Flipper Zero app to scan FRS channels for activity.
 * [SteelSeriesGG Helper](https://github.com/thecybermind/steelseriesgg_helper) - Simple script to reset settings in the Sonar section of the SteelSeries GG app.
 * [QuestNoise](https://github.com/thecybermind/questnoise/) - World of Warcraft addon that plays a sound when you have made objective progress, completed an objective, or completed a quest.
