@@ -19,7 +19,7 @@ Take a look at some of the QMM-related repos:
 * ![Latest release](https://img.shields.io/github/v/release/thecybermind/qadmin_qmm)[QAdmin_QMM](https://github.com/thecybermind/qadmin_qmm/) - Plugin to administer servers with in-game commands and access levels.
 * ![Latest release](https://img.shields.io/github/v/release/thecybermind/advchat_qmm) [AdvChat_QMM](https://github.com/thecybermind/advchat_qmm/) - A plugin that allows for predefined variable replacement in chat, like $h for health or $a for armor.
 * ![Latest release](https://img.shields.io/github/v/release/thecybermind/stub_qmm) [Stub_QMM](https://github.com/thecybermind/stub_qmm/) - A basic sample trace plugin that outputs every message and some commonly-used arguments.
-* ![Latest release](https://img.shields.io/github/v/release/thecybermind/sof2gt_qmm) [Sof2GT_QMM](https://github.com/thecybermind/sof2gt_qmm/) - A plugin which hooks the "gametype" module interface for Soldier of Fortune II. This utilizes IAT patching in Windows and PLT relocation patching in Linux to intercept the attempted load of the gametype DLL.
+* ![Latest release](https://img.shields.io/github/v/release/thecybermind/sof2gt_qmm) [Sof2GT_QMM](https://github.com/thecybermind/sof2gt_qmm/) - A plugin which hooks the "gametype" module interface for Soldier of Fortune II and exposes the functions to other QMM plugins. This utilizes IAT patching in Windows and PLT relocation patching in Linux to intercept the attempted load of the "gametype" DLL.
 * ![Latest release](https://img.shields.io/github/v/release/thecybermind/stub_sof2gt)[Stub_Sof2GT](https://github.com/thecybermind/stub_sof2gt/) - A basic sample trace plugin of the "gametype" interface for Sof2GT_QMM.
 
 Take a look at some of my other projects:
