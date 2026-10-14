@@ -24,7 +24,7 @@ Take a look at some of the QMM-related repos:
 
 Take a look at some of my other projects:
 
-* ![Latest release](https://img.shields.io/github/v/release/thecybermind/ipredir) [ipredir](https://github.com/thecybermind/ipredir/) - outgoing IP redirection+NAT for Windows.
+* ![Latest release](https://img.shields.io/github/v/release/thecybermind/ipredir) [ipredir](https://github.com/thecybermind/ipredir/) - Outgoing IP redirection+NAT for Windows. Outgoing packets towards certain IPs are redirected to a new IP, and then return packets are modified to appear to come from the original destination IP.
 * ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/questnoise) [QuestNoise](https://github.com/thecybermind/questnoise/) - World of Warcraft addon that plays a sound when you have made objective progress, completed an objective, or completed a quest.
 * ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/hidehotkeys) [HideHotKeys](https://github.com/thecybermind/hidehotkeys/) - World of Warcraft addon that allows you to hide button text showing the keybind and/or macro name.
 * ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/flightwarn) [FlightWarn](https://github.com/thecybermind/flightwarn/) - World of Warcraft addon that plays a warning sound when you have flown in a straight line for too long, or if you have flown into fatigue. Useful for alt-tab flying prior to Dragonflight.
