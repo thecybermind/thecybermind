@@ -11,7 +11,8 @@ I began writing it while at University of Maryland in 2004, and the code was ori
 Eventually, I stopped working on it, and only did anything related to it when a few people emailed me. In 2015, long after PlanetQuake disappeared and SourceForge went downhill, I made repos here on GitHub, but otherwise left them untouched. I have since (Mar 2025) begun working on QMM (and various plugins) again.
 
 Take a look at some of the QMM-related repos:
-* [QMM2](https://github.com/thecybermind/qmm2/) ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/qmm2) - The main plugin manager ([how it works](https://github.com/thecybermind/qmm2/wiki/How-QMM-works)).
+* [QMM2](https://github.com/thecybermind/qmm2/) - The main plugin manager ([how it works](https://github.com/thecybermind/qmm2/wiki/How-QMM-works)).
+    ![Latest tag](https://img.shields.io/github/v/tag/thecybermind/qmm2)
 * [qvmops](https://github.com/thecybermind/qvmops/) - A simple CLI [QVM](https://github.com/thecybermind/qmm2/wiki/QVM) disassembler with code and data segments and support for reading symbol information from .map files.
 * [RocketMod_QMM](https://github.com/thecybermind/rocketmod_qmm/) - A simple "Rocket Launcher-only" game mode plugin for Quake 2, Quake 3 Arena, and Soldier of Fortune.
 * [NoCrash_QMM](https://github.com/thecybermind/nocrash_qmm/) - A simple plugin to fix the old q3msgboom bug.
