@@ -1,6 +1,6 @@
 ## thecybermind
 
-Hello, I am Kevin Masterson. At various points in my career, I have worn the hats of software developer, network engineer, and system administrator.
+Hello, I am Kevin Masterson. At various points in my career, I have worn the hats of help desk, software developer, network + system engineer, and private cloud administrator.
 
 I am originally from the United States, but I currently live in Bulgaria with my wife and our dog.
 
