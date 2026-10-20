@@ -20,7 +20,7 @@ Take a look at some of the QMM-related repos:
 * ![Latest release](https://img.shields.io/github/v/release/thecybermind/advchat_qmm) [AdvChat](https://github.com/thecybermind/advchat_qmm/) - A plugin that allows for predefined variable replacement in chat, like `$h` for health or `$a` for armor.
 * ![Latest release](https://img.shields.io/github/v/release/thecybermind/stub_qmm) [Stub](https://github.com/thecybermind/stub_qmm/) - A basic sample trace plugin that outputs every message and some commonly-used arguments.
 * ![Latest release](https://img.shields.io/github/v/release/thecybermind/sof2gt_qmm) [SoF2GT](https://github.com/thecybermind/sof2gt_qmm/) - A plugin which hooks the additional "gametype" module interface for Soldier of Fortune II (multiplayer) and exposes the functions to other QMM plugins. This utilizes IAT patching in Windows and PLT relocation patching in Linux to intercept the attempted load of the "gametype" DLL. Includes a copy of QMM's QVM interpreter for executing QVM gametypes.
-* ![Latest release](https://img.shields.io/github/v/release/thecybermind/stub_sof2gt) [Stub_SoF2GT](https://github.com/thecybermind/stub_sof2gt/) - A basic sample trace plugin of the "gametype" interface hooks provided by SoF2GT_QMM.
+* ![Latest release](https://img.shields.io/github/v/release/thecybermind/stub_sof2gt) [Stub_SoF2GT](https://github.com/thecybermind/stub_sof2gt/) - A basic sample trace plugin of the "gametype" interface hooks provided by SoF2GT.
 
 Take a look at some of my other projects:
 
